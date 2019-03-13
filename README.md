@@ -1,2 +1,3 @@
 # hello-world
-изменение
+
+Hi, people!
